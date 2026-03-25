@@ -11,10 +11,6 @@ import java.util.Map;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin(origins = {
-        "https://portfolio-five-rho-64.vercel.app",
-        "http://localhost:3000"
-})
 @RequiredArgsConstructor
 public class ContactController {
 
