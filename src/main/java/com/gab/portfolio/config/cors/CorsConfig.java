@@ -1,4 +1,4 @@
-package com.fetin2026.whtie_label.config.cors;
+package com.gab.portfolio.config.cors;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.*;
